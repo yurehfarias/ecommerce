@@ -1,5 +1,5 @@
 
-# Resumos Git & Github
+# Resumos Git & Githu
 
 Repositório para armazenar resumos sobre Git e Github 
 do curso Versionamento de código com Git e Github da  
